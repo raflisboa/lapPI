@@ -11,17 +11,14 @@ First of all, we´ll need:
 * A Male Micro HDMI to Female HDMI Adapter (like this one: https://pt.dhgate.com/product/micro-hdmi-adapter-hdmi-male-type-a-to-micro/396145563.html).
 * A Female Micro USB to Male USB Cable (like this one: https://www.flipkart.com/pitambara-micro-usb-female-male-cable-otg-morpho-e2-e3-fingerprint-scanner-0-1-m/p/itmffhpvftmppqdc).
 
-## Usage
+## Instructions
 
-Feel free to clone this space.
 
-If you don´t know how to incorporate a Form or a Module into your VBA Project, I sugest this:
 
-https://www.techrepublic.com/blog/microsoft-office/export-your-vba-code-for-use-in-another-excel-application/
-
-https://www.rondebruin.nl/win/s9/win002.htm
 
 ## Contributing
+Feel free to clone or copy this project.
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
